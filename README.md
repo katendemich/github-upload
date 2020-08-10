@@ -66,3 +66,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+### Installation of the App
+Inorder to install the App you have to download it and click 'install app', accept the changes to your system, then the  App will be installed in your computer and ready for use.   
